@@ -7,7 +7,7 @@ public:
             if(nums[i] == 0){
                 swap(nums[start], nums[i]);
                 start++;
-            } else if(nums[i] == 2){
+            }else if (nums[i] == 2){
                 swap(nums[end], nums[i]);
                 end--;
                 i--;
