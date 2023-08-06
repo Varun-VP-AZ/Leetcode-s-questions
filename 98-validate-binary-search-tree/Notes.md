@@ -1,0 +1,1 @@
+<h2>validate-binary-search-tree Notes</h2><hr>done with using the property that inorder traversal of BST is always in sorted order..
